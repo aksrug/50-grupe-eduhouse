@@ -13,7 +13,7 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://aksrug.github.io/50-grupe-eduhouse/
+Site published at: https://github.com/aksrug/50-grupe-eduhouse
 
 Design: [Eduhouse](https://dribbble.com/shots/14735947--Eduhouse-Education-Management-Dashboard-Design/attachments/6437950?mode=media)
 
